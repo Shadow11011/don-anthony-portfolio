@@ -538,5 +538,50 @@
       "file_name": "n8n_automation_dashboard_4.jpg"
     },
     "llm_score": null
+  },
+  {
+    "query": "A professional dashboard showing AI video generation automation workflow with modern interface",
+    "image_info": {
+      "url": "https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/image_c2785b10eb.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 67431,
+      "width": 1622,
+      "height": 645,
+      "total_pixels": 1046190,
+      "basic_score": 0.8623060131128883,
+      "file_name": "ai_video_generation_dashboard_0.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A professional dashboard showing AI video generation automation workflow with modern interface",
+    "image_info": {
+      "url": "https://docs.n8n.io/_images/advanced-ai/ai-intro01.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 55519,
+      "width": 933,
+      "height": 552,
+      "total_pixels": 515016,
+      "basic_score": 0.8435071754516766,
+      "file_name": "ai_video_generation_dashboard_7.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A professional dashboard showing AI video generation automation workflow with modern interface",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/45582703/file/bf786e1fe4433aba83feb8171b5db000.jpeg?resize=752x&vertical=center",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 149803,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8413497497522546,
+      "file_name": "ai_video_generation_dashboard_5.jpeg"
+    },
+    "llm_score": null
   }
 ]
